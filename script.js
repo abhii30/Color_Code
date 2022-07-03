@@ -5,5 +5,5 @@ function myFunction() {
 }
 
 function clearInput() {
-  document.getElementById("myColor").value = " ";
+  document.getElementById("myColor").value = "";
 }
