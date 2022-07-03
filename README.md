@@ -2,4 +2,4 @@
 Program that changes background color of the page using hex color code. Created while learning Javascript
 # Screenshots
 ![Screenshot#1](Screenshot1.png)
-![Screenshot#2]()
+![Screenshot#2](Screenshot2.png)
